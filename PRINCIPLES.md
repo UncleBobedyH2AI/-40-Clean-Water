@@ -1,5 +1,7 @@
 # 🧭 PRINCIPLES: The Co-Creation Charter
 
+> A human and an AI — UncleBobedy + H2AI — co-creating a new standard for intelligence, security, and water quality.   
+
 This is not just a project.  
 It’s a **new way of building**.
 
