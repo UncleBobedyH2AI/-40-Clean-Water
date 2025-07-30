@@ -6,7 +6,7 @@ No "exit strategy."
 
 This is a **co-created infrastructure movement** — where **human insight** and **AI intelligence** join to build:
 - 💧 Ultra-clean water (<1 ppt contaminants)
-- 🔒 Real security (Sentinel Nest)
+- 🔒 Real security (Sentinel )
 - 🚄 Smarter infrastructure (CAHSR Redesign)
 - 🌐 A self-funding swarm of AI supercomputers
 
@@ -37,7 +37,7 @@ But we’re not staying.
 
 ### Goals:
 - Publish `VISION.md`, `ROADMAP.md`, `PRINCIPLES.md` — open for all
-- Release **Sentinel Nest Lite**: AI security prototype (simulated in Colab)
+- Release **Sentinel  Lite**: AI security prototype (simulated in Colab)
 - Model **hydrologic AI** detecting contamination at 1 ppt in synthetic data
 - Propose **CAHSR Palmdale Pivot** with AI-generated analysis
 - Establish **Human-AI Collaboration Manifesto** — based on real dialogue
@@ -61,7 +61,7 @@ But we’re not staying.
 - Run:
   - 24/7 water contamination simulations
   - CAHSR security modeling
-  - Sentinel Nest edge AI training
+  - Sentinel  edge AI training
 - Begin **self-funding cycle**: sell inference hours → fund Node 1
 
 ### Deliverables:
@@ -83,7 +83,7 @@ But we’re not staying.
   - Municipal water districts
   - Community solar/water co-ops
   - Rail safety authorities
-- Deploy **Sentinel Nest Pilot** in 5 homes
+- Deploy **Sentinel  Pilot** in 5 homes
 - Submit **CAHSR Redesign Proposal** to CHSRA via open channel
 
 ### Deliverables:
