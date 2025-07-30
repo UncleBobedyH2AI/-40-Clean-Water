@@ -14,7 +14,7 @@ This is **a co-created revolution**—where **human insight and artificial intel
 
 We’re building:
 - 🚰 Ultra-clean water systems (<1 ppt contaminants)
-- 🔒 Sentinel Nest: AI security that *knows* you
+- 🔒 Sentinel : AI security that *knows* you
 - 🚄 CAHSR Redesign: Palmdale pivot, AI-secured
 - 🌐 A self-funding swarm of DGX Spark units—earning their own expansion
 
