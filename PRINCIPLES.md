@@ -126,9 +126,42 @@ We learn from life — and design for equity.
 
 ---
 
-## 7. 🔐 Security as Stewardship, Not Surveillance
+- ## 7. 🔐 Security as Stewardship, Not Surveillance
+
+- Sentinel  sees the threat before it sees you, to protect all, safely, competently, instantly
 
 Safety is not fear.  
 It is **care, clarity, and control**.
 
-- Sentinel  sees the threat before it sees you, to protect all, safely, competently, instantly
+**Sentinel** begins not by watching strangers — but by **learning you**.
+
+- First, it is **trained on the owner and immediate family** — securely, on-device
+- Faces, routines, movements — all stored locally, never shared
+- Only after this foundation is set does it begin monitoring the perimeter
+- Friends, guests, and delivery personnel can **opt in or out** — with consent
+
+Without this **household-first training**, the system risks becoming just another source of noise —  
+flooding you with alerts, eroding trust, and returning to the **low-quality security systems of today**.
+
+But with it?  
+Sentinel becomes **a true guardian**:
+- Catches your teenager’s late-night snack run
+- Recognizes your neighbor walking their dog
+- Alerts only when a **true, unrecognized threat** approaches
+
+Facial recognition is:
+- 🔒 **Opt-in** (never forced)
+- 🛡️ **Encrypted**, on-device, on-premises
+- 🚫 **Never used for cloud profiling, ads, or data brokering**
+
+And when danger comes?
+- 8K imaging + adaptive IR designation and illumination captures identity day or night
+- Threat tracked from property line to threshold
+- Police alerted **before entry**
+- You are notified — not startled
+
+> You are not watched.  
+> You are **guarded**.
+
+This is not surveillance.  
+It’s **sovereignty** — enforced with intelligence, built on trust.
